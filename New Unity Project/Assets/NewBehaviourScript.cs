@@ -57,10 +57,12 @@ public class NewBehaviourScript : MonoBehaviour
         //{
         //this.tranform.Rotate(0,0, -This.transform.eulerAngles.z);
         //}
-
+        //MOVEMENT via camera direction
+        //transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, Camera.main.transform.localEulerAngles.y, transform.localEulerAngles.z);
 
     }
 }
 //fix Z axis; only allow range of movement along X axis
 //camera.look where to move(fix arrowkey problem)
 //deliver C# code assignment 2
+//Submit playthrough proofing copy with Twine or a storyboard in Twine
