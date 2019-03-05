@@ -88,7 +88,7 @@ public class NPCprototyping : MonoBehaviour
                 print("...");
                 break;
         }
-        //add in hit on head to make dumber with spacebar; pressing r key will make the ogre read a book and get smarter
+        //add in "hit on head" to make dumber with "spacebar"; pressing "r" key will make the ogre read a book and get smarter
     }
 
     // Start is called before the first frame update
